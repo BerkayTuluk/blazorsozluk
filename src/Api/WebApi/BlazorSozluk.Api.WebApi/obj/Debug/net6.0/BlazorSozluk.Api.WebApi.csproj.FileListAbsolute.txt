@@ -144,3 +144,11 @@ C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozlu
 C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\BlazorSozluk.Api.WebApi.pdb
 C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\BlazorSozluk.Api.WebApi.genruntimeconfig.cache
 C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\ref\BlazorSozluk.Api.WebApi.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

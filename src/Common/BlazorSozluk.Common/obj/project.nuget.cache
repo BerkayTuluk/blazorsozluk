@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IXAreS1w0ZjI56MbQYT2DdhocflsYrWJ/FzYSXI7V1zFsxNb/wiJlbjXYI5xos89rWdYa6P1EkjuYnUaGCdIOQ==",
+  "dgSpecHash": "w7FNTzYDYsoZvDRDiuJSuBUaF/roNBQLQhA/jORYn1GUUELS609XNFygFs3vCfSi9jmow/9QQ/Ce92WLXz13Cg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Berkay\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
