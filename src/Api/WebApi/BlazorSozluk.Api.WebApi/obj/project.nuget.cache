@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPhZjGnn0QD+wSbpExaaXdIoGwWaBNnsP8Zi3CDDrz8EjPkywlZ6Qxd8VhyVdzdevq+TQH5v6xkcowF8QwxlCA==",
+  "dgSpecHash": "jw1QFE2d1tPDhoVdFxfmI6Jm+OAXgtcw6BfPWH7iQP5YUayDU28NsxnUKfFxvqYd0zp2u2iqRSSnMIYVQgS8ew==",
   "success": true,
-  "projectFilePath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berkay\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

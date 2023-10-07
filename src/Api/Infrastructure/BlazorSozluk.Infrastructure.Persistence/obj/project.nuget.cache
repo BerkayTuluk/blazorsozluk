@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zSldUjCpCUUKBV8Xl7WcPwJRnDknu6CzBd6gj/O1Nf6OlcmdjZST1g7p8novw9RfQb4/8EbaqBGxMTdrVPACXA==",
+  "dgSpecHash": "oJPXOnVbfDgLNldUaHWpJgUdfuRzx5u0IcNPzY7SBCxOdsErd5PeYofZYmlrJfyUFDDScLB1y9FKkNnNrNhDgQ==",
   "success": true,
-  "projectFilePath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berkay\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

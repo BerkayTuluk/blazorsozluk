@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "BlazorSozluk.Infrastructure.Persistence/1.0.0": {
         "dependencies": {
+          "BlazorSozluk.Api.Application": "1.0.0",
           "BlazorSozluk.Api.Domain": "1.0.0",
           "Bogus": "34.0.2",
           "Microsoft.EntityFrameworkCore": "6.0.3",
@@ -503,6 +504,14 @@
           }
         }
       },
+      "BlazorSozluk.Api.Application/1.0.0": {
+        "dependencies": {
+          "BlazorSozluk.Api.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BlazorSozluk.Api.Application.dll": {}
+        }
+      },
       "BlazorSozluk.Api.Domain/1.0.0": {
         "dependencies": {
           "BlazorSozluk.Common": "1.0.0"
@@ -838,6 +847,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "BlazorSozluk.Api.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "BlazorSozluk.Api.Domain/1.0.0": {
       "type": "project",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {}
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {}
   },
   "projects": {
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
         "projectName": "BlazorSozluk.Common",
-        "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
+        "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
         "packagesPath": "C:\\Users\\Berkay\\.nuget\\packages\\",
-        "outputPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\obj\\",
+        "outputPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

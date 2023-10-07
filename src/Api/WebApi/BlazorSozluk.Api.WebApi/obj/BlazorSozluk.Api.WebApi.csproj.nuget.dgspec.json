@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj": {}
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj": {
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj",
-        "projectName": "BlazorSozluk.Api.Domain",
-        "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj",
+        "projectName": "BlazorSozluk.Api.Application",
+        "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj",
         "packagesPath": "C:\\Users\\Berkay\\.nuget\\packages\\",
-        "outputPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
-                "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj"
+              "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj": {
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj",
-        "projectName": "BlazorSozluk.Infrastructure.Persistence",
-        "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj",
+        "projectName": "BlazorSozluk.Api.Domain",
+        "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj",
         "packagesPath": "C:\\Users\\Berkay\\.nuget\\packages\\",
-        "outputPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,88 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj": {
-                "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj"
+              "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
+                "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.308\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj",
+        "projectName": "BlazorSozluk.Infrastructure.Persistence",
+        "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Berkay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Berkay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj": {
+                "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj"
+              },
+              "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj"
               }
             }
           }
@@ -186,14 +266,14 @@
         }
       }
     },
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj": {
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
         "projectName": "BlazorSozluk.Api.WebApi",
-        "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
+        "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
         "packagesPath": "C:\\Users\\Berkay\\.nuget\\packages\\",
-        "outputPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -215,8 +295,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj": {
-                "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj"
+              "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj"
               }
             }
           }
@@ -277,14 +357,14 @@
         }
       }
     },
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
         "projectName": "BlazorSozluk.Common",
-        "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
+        "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
         "packagesPath": "C:\\Users\\Berkay\\.nuget\\packages\\",
-        "outputPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\obj\\",
+        "outputPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

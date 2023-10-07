@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g3w/Im8jqUmVLTLx62smssy73M2IPnzLtWzyvZbs9vzGSm/5Ip2LH1SX0S/neda+/IvzFUS5JNaa8Fhqtvy7Jw==",
+  "dgSpecHash": "ihlphf58sX5BctEOOqJ5Lj59DnTYSK76/NCx7o+tshdU2tPgmnajUoBPQLQf6EqR5DacM3CHUADqotT14y88SQ==",
   "success": true,
-  "projectFilePath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",

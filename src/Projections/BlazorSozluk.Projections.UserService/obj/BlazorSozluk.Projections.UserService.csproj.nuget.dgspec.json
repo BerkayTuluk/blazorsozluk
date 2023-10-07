@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\BlazorSozluk.Projections.UserService.csproj": {}
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\BlazorSozluk.Projections.UserService.csproj": {}
   },
   "projects": {
-    "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\BlazorSozluk.Projections.UserService.csproj": {
+    "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\BlazorSozluk.Projections.UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\BlazorSozluk.Projections.UserService.csproj",
+        "projectUniqueName": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\BlazorSozluk.Projections.UserService.csproj",
         "projectName": "BlazorSozluk.Projections.UserService",
-        "projectPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\BlazorSozluk.Projections.UserService.csproj",
+        "projectPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\BlazorSozluk.Projections.UserService.csproj",
         "packagesPath": "C:\\Users\\Berkay\\.nuget\\packages\\",
-        "outputPath": "C:\\YAZILIMDERSLERİM\\.NetCore\\Proje\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\obj\\",
+        "outputPath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.UserService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
