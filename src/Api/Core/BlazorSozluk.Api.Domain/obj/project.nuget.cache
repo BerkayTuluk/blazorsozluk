@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "er9x0NsIMKLGboA6CaqChWWOn0BfdgKLplJxtpgtYhNDTEJXI9+1cdh2Tf82OcwMCqhlZgqVZSElYPdPcR4csg==",
+  "dgSpecHash": "BsoirzMk7BesW6clXpJjAD4HTlTY0IcxvXlUpO/DCiWMCAE7dqnEJDVvykbwU/43dws5pSO9/QEY+dyPRYnVvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Berkay\\OneDrive\\Belgeler\\GitHub\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berkay\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"

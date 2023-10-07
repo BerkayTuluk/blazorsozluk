@@ -152,3 +152,4 @@ C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozlu
 C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.dll
 C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Berkay\OneDrive\Belgeler\GitHub\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\RabbitMQ.Client.dll
