@@ -36,19 +36,19 @@ public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, Guid>
         var rows = await userRepository.AddAsync(dbUser);
 
         //Email Changed/Created
-        if (rows > 0)
-        {
-            var @event = new UserEmailChangedEvent()
-            {
-                OldEmailAddress = null,
-                NewEmailAddress = dbUser.EmailAddress
-            };
+        //if (rows > 0)
+        //{
+        //    var @event = new UserEmailChangedEvent()
+        //    {
+        //        OldEmailAddress = null,
+        //        NewEmailAddress = dbUser.EmailAddress
+        //    };
 
-            QueueFactory.SendMessageToExchange(exchangeName: SozlukConstants.UserExchangeName,
-                                               exchangeType: SozlukConstants.DefaultExchangeType,
-                                               queueName: SozlukConstants.UserEmailChangedQueueName,
-                                               obj: @event);
-        }
+        //    QueueFactory.SendMessageToExchange(exchangeName: SozlukConstants.UserExchangeName,
+        //                                       exchangeType: SozlukConstants.DefaultExchangeType,
+        //                                       queueName: SozlukConstants.UserEmailChangedQueueName,
+        //                                       obj: @event);
+        //}
 
         return dbUser.Id;
        
