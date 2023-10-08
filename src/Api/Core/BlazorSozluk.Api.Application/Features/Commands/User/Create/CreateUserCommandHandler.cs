@@ -35,6 +35,7 @@ public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, Guid>
 
         var rows = await userRepository.AddAsync(dbUser);
 
+        //RabbitmQ
         //Email Changed/Created
         //if (rows > 0)
         //{
