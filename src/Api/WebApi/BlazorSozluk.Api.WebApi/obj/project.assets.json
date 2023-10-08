@@ -1020,6 +1020,7 @@
           "FluentValidation.DependencyInjectionExtensions": "10.4.0",
           "MediatR": "10.0.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1",
+          "Microsoft.EntityFrameworkCore": "6.0.3",
           "Microsoft.IdentityModel.Tokens": "6.8.0",
           "System.IdentityModel.Tokens.Jwt": "6.8.0"
         },
@@ -1048,6 +1049,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "MediatR": "10.0.1",
+          "Microsoft.EntityFrameworkCore": "6.0.3",
           "RabbitMQ.Client": "6.2.4"
         },
         "compile": {
