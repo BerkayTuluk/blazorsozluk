@@ -11,6 +11,7 @@
           "AutoMapper": "11.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
           "BlazorSozluk.Api.Domain": "1.0.0",
+          "BlazorSozluk.Common": "1.0.0",
           "FluentValidation": "10.4.0",
           "FluentValidation.AspNetCore": "10.4.0",
           "FluentValidation.DependencyInjectionExtensions": "10.4.0",
